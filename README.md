@@ -1,8 +1,7 @@
 # School administration system
 
 ## Prerequisites
-- NodeJS v12.18.3
-- Docker
+- NodeJS v12.19.0
 
 <br>
 
