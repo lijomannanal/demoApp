@@ -1,0 +1,16 @@
+.profile-div {
+    width: 500px;
+    margin: 0 auto;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    padding: 20px;
+    border: 1px solid black;
+}
+.profile-label {
+    font-weight:500;
+    float: left;
+}
+.profile-detail {
+    margin-left: 100px;
+}

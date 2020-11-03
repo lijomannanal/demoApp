@@ -1,0 +1,29 @@
+.login-form {
+    width: 500px;
+    margin: 0 auto;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    padding: 50px;
+    border: 1px solid black;
+}
+.form-input {
+    margin-top: 10px;
+    text-align: center;
+
+}
+.form-input input {
+    width: 70%;
+}
+ .error-span {
+    color: red;
+    padding-left: 80px;
+}
+.input-button {
+    text-align: center;
+}
+.input-button input[type=button] {
+    color: #fff;
+    background-color: blue;
+}
+
