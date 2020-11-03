@@ -1,4 +1,4 @@
-# School administration system
+# Demo App in NodeJS
 
 ## Prerequisites
 - NodeJS v12.19.0
