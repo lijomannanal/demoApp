@@ -52,7 +52,7 @@ npm start
 ### Running tests in Server App
 
 ```bash
-npm run start
+npm run test
 ```
 <br>
 
