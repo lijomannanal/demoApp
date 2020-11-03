@@ -47,6 +47,15 @@ npm start
 ```
 <br>
 
+<br>
+
+### Running tests in Server App
+
+```bash
+npm run start
+```
+<br>
+
 ### Accessing backend API docs
 For viewing and executing the available APIs.
 This will start the backend server
