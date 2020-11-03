@@ -58,11 +58,11 @@ npm run start
 
 ### Accessing backend API docs
 For viewing and executing the available APIs.
-This will start the backend server
 
 http://localhost:8080
 
-<br>
+Swagger API documentation- 
+http://localhost:8080/api-docs
 
 
 <br>
@@ -84,7 +84,7 @@ npm start
 <br>
 
 ### Accessing Web App
-Starting the project in local environment.
+For accessing the web app.
 
 http://localhost:3000
 
